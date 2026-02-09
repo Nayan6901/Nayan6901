@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Nayan 👋
 
-<!--
-**Nayan6901/Nayan6901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Aspiring Software Developer  
+🚀 Focused on Data Structures, Core CS & Full-Stack Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Passionate about building real-world projects
+- Preparing for software engineering roles
+- Strong interest in backend, system fundamentals & problem solving
+- Believe in **consistency > motivation**
+
+---
+
+## 🧠 What I'm Currently Learning
+- Data Structures & Algorithms (Java)
+- Computer Networks, OS, DBMS
+- MERN Stack (React, Node.js, MongoDB)
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java, JavaScript  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🚀 Featured Projects
+- 🔹 **TaskForge** – Full-stack task & project manager (MERN)
+- 🔹 **ESP32 Internet Clock** – NTP-based real-time clock with LCD
+- 🔹 **Digital Clock** – Arduino Nano + DS3231 RTC
+
+👉 Check my repositories below 👇
+
+---
+
+## 📈 GitHub Goals
+- Daily problem solving
+- Clean, readable code
+- Meaningful commits
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Nayan6901
+
+⭐ Always learning. Always improving.
