@@ -136,11 +136,11 @@ Check out my repositories for more projects!
 
 <div align="center">
   
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayan6901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Nayan6901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan6901&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan6901&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayan6901&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Nayan6901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
