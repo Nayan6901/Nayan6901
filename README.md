@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Nayan6901?style=flat-square&logo=github&color=f0b429&labelColor=0d1117)](https://github.com/Nayan6901)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nayan6901&style=flat-square&color=58A6FF&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Nayan6901)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
