@@ -139,17 +139,13 @@ Check out my repositories for more projects!
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayan6901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayan6901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan6901&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan6901&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan6901&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nayan6901&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
