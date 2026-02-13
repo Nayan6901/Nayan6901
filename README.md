@@ -135,19 +135,6 @@ Check out my repositories for more projects!
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayan6901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan6901&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan6901&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
